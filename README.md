@@ -1,0 +1,11 @@
+# 一个用于存放shell脚本的Github代码学习托管库
+## 信息
+作者: 音铃Twiyin0
+网站: [Twiyin0的主页](https://twiyin0.cn)
+博客: [音铃的博客](https://blog.twiyin0.cn)
+## 库链接
+* [rootDir](./README.md)
+    * [githubPingHost](./githubPingHost/)
+# 注意
+- 1、本库所有代码仅用于学习，不得用于任何商业用途
+- 2、未经作者转发本库时注明源链接
